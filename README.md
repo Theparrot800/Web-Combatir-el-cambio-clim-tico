@@ -14,4 +14,5 @@ Este proyecto tiene por objetivo el dar consejos y ayudar a prevenir el cambio c
 # 🤖🛠️ Tecnologias usadas
 
 - python
+- Visual_Studio_Code
 - flask
